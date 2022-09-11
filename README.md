@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Roberto Lacruz
-- 👀 I’m Junior Frontend developer
-- HTML5, CSS3, JavaScrip, React, Git, GitHub, Json, React, Node Js, My Sql
+- 👀 I’m Junior Full Stack developer
+- JavaScript HTML5, CSS3, React, Git, GitHub, Json, React, Node Js, My Sql, C, C ++.
 - 🌱 I’m currently learning React with PLATZI
 - 💞️ I’m looking for a Job Like junior Front End Developer
 - 📫 How to reach me lacruzr@hotmail.com
